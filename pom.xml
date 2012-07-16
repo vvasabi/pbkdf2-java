@@ -5,7 +5,7 @@
 			http://maven.apache.org/maven-v4_0_0.xsd">
 
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>pbkdf2</groupId>
+	<groupId>de.rtner</groupId>
 	<artifactId>pbkdf2</artifactId>
 	<packaging>jar</packaging>
 	<version>1.0.4</version>
