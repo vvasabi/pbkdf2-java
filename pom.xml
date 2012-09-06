@@ -9,7 +9,7 @@
 	<artifactId>pbkdf2</artifactId>
 	<packaging>jar</packaging>
 	<version>1.0.4</version>
-	<name>Bliiss Web Module</name>
+	<name>PBKDF2 Java</name>
 
 	<dependencies>
 		<dependency>
