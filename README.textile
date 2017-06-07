@@ -1,9 +1,0 @@
-h2. PBKDF2 for Java
-
-This is a fork and *unofficial* repository of the PBKDF2 library from http://www.rtner.de/software/PBKDF2.html. The differences of this fork are:
-
-* Build tool switches from ant to mvn for simple dependency management.
-* Source controlled with git.
-
-Since this is an unofficial repository, I make no promise of keeping it up-to-date. Use this repository at your own risk.
-
